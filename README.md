@@ -2,6 +2,7 @@
 - You can access my git repo [@sumant326541](https://github.com/sumant326541)
 - 👀 I’m interested in QA challange
 - 🌱 I’m currently learning Devops
+- Experience in Browserstack
 - 💞️ I’m looking to collaborate on Automation tools Cypress, Selenium, webDriverIo, playwright, appium, Node.js, Java, JavaScript
 - 📫 You can reach me on linkedin https://www.linkedin.com/in/sumant-kumar92/
 
